@@ -132,13 +132,3 @@ The assessment provides a solid foundation for understanding evolutionary comput
 
 - Lengauer, T. (1991). *Combinatorial Algorithms for Integrated Circuit Layout*. John Wiley & Sons.
 
-## GitHub Repository
-
-The complete implementation is available at: [GitHub Repository Link]
-
-The repository includes:
-- Source code for all implemented algorithms
-- Problem instance files
-- Visualization modules
-- Documentation and examples
-- Test scripts for validation
